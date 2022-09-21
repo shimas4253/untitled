@@ -12,4 +12,8 @@ void main() {
   print('i am $age years old');
   stdout.write('my mark is $mark');
   stdout.write('\n mail is $mail');
+///final dob="13/03/2002";//value constant at run time
+      ///  dob="13/03/2002";//not possible fixed value
+ /// const year=2002;//valu constant at compile time
+     ///   year=2000;//not posssible fixed value
 }
