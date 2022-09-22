@@ -63,8 +63,8 @@ print("relational operators");//output always boolean yes/no
 
   print("swift operators");
 
-  int h=15;
-  print(h>>2);
-  print(h<<1);
+  int h=15; //0000 1111
+  print(h>>2);// 0000 1111=0000 0011 :right swift
+  print(h<<1);//0000 1111=0001 1110  :left swift
 
 }
